@@ -16,6 +16,7 @@
 ## ✍ Writing
 
 * [Bias (Vietnamese)](https://gist.github.com/tuan3w/2bcf1452f864e6de1a47da8e90a9e60f)
+* [Notion UX](https://gist.github.com/tuan3w/6facc711d708301c23391b4b8b257380)
 
 ## 📝 Contacts
 
