@@ -1,6 +1,6 @@
 #  👋 Hi, I'm Tuan Nguyen
 
-Love building products.
+I love building products.
 
 ## 💻 Tech stack
 
