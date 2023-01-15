@@ -1,6 +1,9 @@
 #  👋 Hi, I'm Tuan Nguyen
 
-I love building products.
+I love building products. I have built products in both startups and big companies. Some of these products have served millions of users.
+
+>I'm looking for a collaboration opportunity. Please check my resume for more information 
+>and contact me via my email in the section below.
 
 ## 💻 Tech stack
 
@@ -16,6 +19,6 @@ I love building products.
 
 ## 📝 Contact
 
-[[Twitter](https://twitter.com/tuan3w)] [[Github](https://github.com/tuan3w)] [[Email](mailto:tuannd.dev@gmail.com)]
+[[Twitter](https://twitter.com/tuan3w)] [[Github](https://github.com/tuan3w)] [[Email](mailto:tuannd.dev@gmail.com)] [[CV](https://read.cv/tuan3w)]
 
 ![](https://komarev.com/ghpvc/?username=tuan3w)
