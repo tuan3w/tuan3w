@@ -23,5 +23,6 @@ I love building products. I have built products in both startups and big compani
 
 ## 📞 Contact
 
-[[Twitter](https://twitter.com/tuan3w)] [[Github](https://github.com/tuan3w)] [[Email](mailto:tuannd.dev@gmail.com)] 
+[[Twitter](https://twitter.com/tuan3w)] [[Github](https://github.com/tuan3w)] [[Email](mailto:tuannd.dev@gmail.com)]
+
 ![](https://komarev.com/ghpvc/?username=tuan3w)
