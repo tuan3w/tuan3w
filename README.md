@@ -17,8 +17,11 @@ I love building products. I have built products in both startups and big compani
 - [Obsidian](https://obsidian.md/)
 - [Linear](https://linear.app/)
 
+## My Resume
+
+[[CV](https://read.cv/tuan3w)]
+
 ## 📝 Contact
 
-[[Twitter](https://twitter.com/tuan3w)] [[Github](https://github.com/tuan3w)] [[Email](mailto:tuannd.dev@gmail.com)] [[CV](https://read.cv/tuan3w)]
-
+[[Twitter](https://twitter.com/tuan3w)] [[Github](https://github.com/tuan3w)] [[Email](mailto:tuannd.dev@gmail.com)] 
 ![](https://komarev.com/ghpvc/?username=tuan3w)
