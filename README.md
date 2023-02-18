@@ -19,7 +19,7 @@ I love building products. I have built products in both startups and big compani
 
 ## 📝 My Resume
 
-[[CV](https://read.cv/tuan3w)]
+[[Online CV](https://read.cv/tuan3w)]
 
 ## 📞 Contact
 
