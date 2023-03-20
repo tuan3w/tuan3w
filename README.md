@@ -1,16 +1,18 @@
 #  👋 Hi, I'm Tuan Nguyen
 
-I love building products. I have built products in both startups and big companies. Some of these products have served millions of users.
+I love building products. I have built products in both startups and big companies in Vietnam. Some of these products have served millions of users.
 
->I'm looking for a collaboration opportunity. Please check my resume for more information 
->and contact me via my email in the section below.
+>I'm actively looking for a remote job opportunity in a product company or startup. 
+>I'm a productive, straightforward and hard working person. 
+>If you know any chance or you are looking for a candidate like me, please reach me out. 
+>My CV can be found below for your reference..
 
 ## 💻 Tech stack
 
 - Backend: Go, NodeJS, Python
 - Frontend: React
 - ML: Pytorch, Numpy
-- Data: Redis, Postgres, Kafka, Cassandra, Apache Spark
+- Data: Redis, Postgres/MySQL, Kafka, Cassandra
 
 ## ❤ Love products
 
@@ -23,6 +25,6 @@ I love building products. I have built products in both startups and big compani
 
 ## 📞 Contact
 
-[[Twitter](https://twitter.com/tuan3w)] [[Github](https://github.com/tuan3w)] [[Email](mailto:tuannd.dev@gmail.com)] [[Linkedin](https://linkedin.com/in/tuan3w)]
+[[Email](mailto:tuannd.dev@gmail.com)] [[Twitter](https://twitter.com/tuan3w)] [[Linkedin](https://linkedin.com/in/tuan3w)] [[Telegram](https://t.me/tuan3w)]
 
 ![](https://komarev.com/ghpvc/?username=tuan3w)
