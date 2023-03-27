@@ -6,6 +6,8 @@ I love building products. I have built products in both startups and big compani
 >I'm a productive, straightforward and hard working person. 
 >My CV can be found below for your reference..
 
+[Linkedin post about me](https://www.linkedin.com/feed/update/urn:li:activity:7024550380910895104/).
+
 ## 💻 Tech stack
 
 - Backend: Go, NodeJS, Python
