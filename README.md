@@ -19,6 +19,7 @@ I love building products. I have built products in both startups and big compani
 
 - [Obsidian](https://obsidian.md/)
 - [Linear](https://linear.app/)
+- [Figma](https://www.figma.com/)
 
 ## 📝 My Resume
 
