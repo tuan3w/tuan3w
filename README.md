@@ -1,12 +1,6 @@
 #  👋 Hi, I'm Tuan Nguyen
 
-I love building products. I have built products in both startups and big companies in Vietnam. Some of these products have served millions of users.
-
->I'm actively looking for a remote job opportunity in a product company or startup. If you know any chance or you are looking for a candidate like me, please reach me out. If you are working on an promising idea and looking for someone that can help you, just contact me.
->I'm a productive, straightforward and hard working person. 
->My CV can be found below for your reference..
-
-[Linkedin post about me](https://www.linkedin.com/feed/update/urn:li:activity:7024550380910895104/).
+I love/hate building products.
 
 ## 💻 Tech stack
 
@@ -17,9 +11,10 @@ I love building products. I have built products in both startups and big compani
 
 ## ❤ Love products
 
-- [Obsidian](https://obsidian.md/)
-- [Linear](https://linear.app/)
-- [Figma](https://www.figma.com/)
+- [Obsidian](https://obsidian.md/): My favorite personal tool. I use this for learning, thinking, and reflection.
+I recommend everyone to build you own personal knoweldge base. You can start with [my template](https://github.com/tuan3w/obsidian-template). It's good for learning, personal growth and well-being.
+- [Linear](https://linear.app/): I like their [opinionated approach](https://linear.app/method/introduction#opinionated-software) in building products. Adding features without much value sucks. Linear tries to answer the fundamental questions in software development and they do it so well. There are things that I don't like very much in their product too, but it's amazing in general.
+- [Figma](https://www.figma.com/): I've never able to learn a professional tool like Photoshop. Figma surprises me that I can do it. They do it so well, with care. Figma is [professional, approachable, thoughtput tool](https://rsms.me/work/figma/). I can understand almost concepts and even make myself a [design](https://www.figma.com/proto/amOgLwFXhJdSkmIbbo0uuM/Linear.app-clone?type=design&node-id=4-131&scaling=scale-down&page-id=0%3A1&starting-point-node-id=4%3A131)
 
 ## 📝 My Resume
 
@@ -28,5 +23,3 @@ I love building products. I have built products in both startups and big compani
 ## 📞 Contact
 
 [[Email](mailto:tuannd.dev@gmail.com)] [[Twitter](https://twitter.com/tuan3w)] [[Linkedin](https://linkedin.com/in/tuan3w)] [[Telegram](https://t.me/tuan3w)]
-
-![](https://komarev.com/ghpvc/?username=tuan3w)
