@@ -1,6 +1,6 @@
 #  👋 Hi, I'm Tuan Nguyen
 
-I love/hate building products.
+I love building products. Right now, I'm into building AI agents.
 
 ## ❤ Love products
 
@@ -11,14 +11,14 @@ I recommend everyone to build you own personal knoweldge base. You can start wit
 
 ## 💻 Tech stack
 
-- Backend: Go, NodeJS, Python
+- Backend: Python, NodeJS, Go
 - Frontend: React
-- ML: Pytorch, Numpy
+- ML: RAG, AI agent workflows, CV
 - Data: Redis, Postgres/MySQL, Kafka, Cassandra
 
 ## 📝 My Resume
 
-[[Online CV](https://read.cv/tuan3w)]
+[[Online CV](https://tuan3w.github.io/assets/resume.pdf)]
 
 ## 📞 Contact
 
